@@ -27,8 +27,8 @@ Name | Description | Technology
 [BCrypt][bcrypt_link] | Hashing with BCrypt | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
 Stock Price Checker | Comming Soon | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
 Anonymous Message Board | Comming Soon | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
-Port Scanner | Comming Soon | [![Python][py_img]](#)
-SHA-1 Password Cracker | Comming Soon | [![Python][py_img]](#)
+[Port Scanner][pscan_link] | Scan for open ports | [![Python][py_img]](#)
+[SHA-1 Password Cracker][sha1_link] | Brute force dicionary SHA1 attack | [![Python][py_img]](#)
 Secure Real Time Multiplayer Game | Comming Soon | [![JavaScript][js_img]![Node.js][nodejs_img]](#)
 
 </div>
@@ -38,8 +38,10 @@ Secure Real Time Multiplayer Game | Comming Soon | [![JavaScript][js_img]![Node.
 [fcc_link]: https://www.freecodecamp.org/learn/information-security
 [certificate_link]: #
 
-[helmetjs_link]: https://github.com/GrandEchoWhiskey/fcc-infosec-helmetjs
-[bcrypt_link]: https://github.com/GrandEchoWhiskey/fcc-infosec-bcrypt
+[helmetjs_link]: exc-1-helmetjs
+[bcrypt_link]: exc-2-bcrypt
+[pscan_link]: bpl-3-port-scanner
+[sha1_link]: bpl-4-SHA-1-password-cracker
 
 [py_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/python.png
 [js_img]: https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/js.png
