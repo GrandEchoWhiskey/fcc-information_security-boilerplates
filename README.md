@@ -16,6 +16,8 @@
 #### freeCodeCamp course on [freecodecamp.org/learn/information-security][fcc_link]
 ##### Certificate link: [none yet][certificate_link]
 
+> Progress in hold, due to much missunderstanding in Node.js. Continuing with other courses.
+
 ---
 
 <div align="center" markdown>
